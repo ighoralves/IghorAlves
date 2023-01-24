@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, sou Ighor alves</h1>
+<h1 align="center">Ola 👋, sou Ighor alves</h1>
 <h3 align="center">Desenvolvedor FrontEnd</h3>
 
 - 🌱 Atualmente estou aprendendo: **JavaScript**
